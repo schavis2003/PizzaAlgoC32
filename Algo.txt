@@ -1,2 +1,5 @@
-1. google pizza place
-2. call pizza place
+1. Google pizza places
+2. Call Pizza HotLine
+3. Order - Meatlovers Pizza
+4. Provide Address
+5. Deliver Pizza
