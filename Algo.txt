@@ -3,3 +3,5 @@
 3. Order - Meatlovers Pizza
 4. Provide Address
 5. Deliver Pizza
+6. Tip Driver
+7. Give Review Online
